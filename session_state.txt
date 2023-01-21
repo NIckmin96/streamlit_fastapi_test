@@ -1,0 +1,1 @@
+{'years': (1990, 2010), 'key_top_k': 10, 'key_input_len': 10, 'status': True, 'key_years': (1990, 2010), 'added_movie_ids': [26838, 4738, 93988, 78499, 47148, 4235, 27882, 3107, 8967, 8919], 'input_len': 10, 'top_k': 10, 'selected_movie_count': 10, 'clicked': False}
